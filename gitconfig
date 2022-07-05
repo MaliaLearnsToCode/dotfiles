@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dr.malia.nguyen@gmail.com
+	name = Malia Nguyen
